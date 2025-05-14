@@ -1,9 +1,9 @@
 # OSSP-INDIVIDUAL-ASSIGNMENT
-   ### name   Fikir Yilkal
-   ### Id   1601514
-   ### departement   software enginering
+   #### NAAME   Fikir Yilkal
+   #### ID   1601514
+   #### DEPARTEMENT   software enginering
 ## Debian OS installation
-          The document explains the installation process of the Debian operating system in detail. It begins with an introduction to Debian, including its background, 
+          The document explains the installation process of the Debian operating system in detail.It begins with an introduction to Debian, including its background, 
           motivation, and objectives. Hardware and software requirements are clearly outlined for different use cases. Step-by-step installation instructions are provided 
           using VirtualBox, including VM setup, ISO attachment, and OS configuration. It also addresses common problems like network issues and performance lags, along with 
           their solutions. Various file systems supported by Debian such as ext4, Btrfs, and NTFS are discussed. The advantages and disadvantages of using Debian in a 
